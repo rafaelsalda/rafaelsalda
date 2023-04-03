@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ Rafael Barimach Saldanha - 18 anos
 - 🔭 Em busca do primeiro estágio!!
-- 🌱 Estudando Ciências da Computação na Universidade UniLasalle/Canoas
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas na Universidade UniLasalle/Canoas
 - ✍ Sempre em busca de desenvolvimento pessoal e profissional
 
 <div align="center">

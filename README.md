@@ -1,7 +1,6 @@
 ### Opa, tudo certo?
 
 - 🙋‍♂️ Rafael Barimach Saldanha - 18 anos
-- 🔭 Em busca do primeiro estágio!!
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas na Universidade UniLasalle/Canoas
 - ✍ Sempre em busca de desenvolvimento pessoal e profissional
 
